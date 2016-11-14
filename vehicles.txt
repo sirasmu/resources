@@ -1,0 +1,5 @@
+AL19742,Car,Ferrari,F50,1997,red,2,6000,0
+HE23477,Car,Audi,A7,2014,black,4,125332,0
+XY54679,Car,Toyota,Yaris,2007,blue,4,0,0
+JA72921,Car,Seat,Mii,2012,green,4,50020,0
+RT90456,Car,Mercedes,W212,2010,white,4,0,0
